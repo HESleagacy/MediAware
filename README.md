@@ -78,3 +78,8 @@ This project demonstrates:
 - Practical healthcare-oriented software engineering
 
 ---
+
+## 📥 Clone the Repository
+```bash
+git clone https://github.com/HESleagacy/MediAware.git
+cd MediAware
